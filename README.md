@@ -73,6 +73,4 @@ retail-sales-analysis-and-prediction/
 │
 ├── data/
 ├── notebook/
-│   └── retail_sales_analysis.ipynb
-├── README.md
-└── .gitignore
+    └── retail_sales_analysis.ipynb
